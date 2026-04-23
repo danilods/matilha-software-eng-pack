@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-marketplace.json",
+  "name": "matilha-software-eng-pack",
+  "owner": {
+    "name": "Danilo de Sousa",
+    "email": "danilod2.sousa@gmail.com",
+    "url": "https://github.com/danilods"
+  },
+  "metadata": {
+    "description": "Matilha companion pack — software engineering skills from Danilo-experience rules.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "matilha-software-eng-pack",
+      "source": "./",
+      "description": "15 software-engineering skills auto-activated when user intent touches code quality, commits, documentation, task tracking, or critical code analysis.",
+      "version": "0.1.0",
+      "category": "sweng",
+      "tags": ["matilha-pack", "sweng", "kiss", "code-quality", "documentation"]
+    }
+  ]
+}
