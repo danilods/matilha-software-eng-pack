@@ -3,6 +3,8 @@
 > **You lead. Agents hunt.**
 > Matilha companion pack — software engineering skills from Danilo-experience.
 
+> 🏠 **This is a companion pack.** The official matilha entry point is [**danilods/matilha-skills**](https://github.com/danilods/matilha-skills) — start there for the full install guide + ecosystem overview. Install this pack only after the core is set up (via `/matilha-install` in Claude Code, or the explicit commands below).
+
 15 skills distilled from Danilo's curated engineering rules — not a literature summary, but methodology documented from day-to-day practice across multi-week AI-assisted software projects. Auto-activates when user intent touches code quality, commits, documentation, task tracking, or critical code analysis.
 
 ## What makes this pack different
