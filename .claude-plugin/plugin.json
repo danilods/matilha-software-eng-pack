@@ -1,6 +1,6 @@
 {
   "name": "matilha-software-eng-pack",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Matilha companion pack — 15 software engineering skills distilled from Danilo-experience rules (KISS anti-overengineering, Python code quality, commits + tracking, documentation that survives, session checklists, task definition + estimation, critical analysis). You lead. Agents hunt.",
   "author": {
     "name": "Danilo de Sousa"
